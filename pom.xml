@@ -29,12 +29,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://18.210.14.137:8081/repository/srinexus-snapshot/</url>
+		    <url>http://54.198.44.68:8081/repository/srinexus-snapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://18.210.14.137:8081/repository/srinexus-release/</url>
+		    <url>http://54.198.44.68:8081/repository/srinexus-release/</url>
 		</repository>
   	</distributionManagement>
 	
